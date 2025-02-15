@@ -1,3 +1,7 @@
+<p align="center">
+		<img src="/logo.png" height="250">
+</p>
+
 # Rolink - a roblox guilded verification bot
 
 ## 🌟 Devforum Post:
